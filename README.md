@@ -1,0 +1,1 @@
+# ms--ads-maven-repository
