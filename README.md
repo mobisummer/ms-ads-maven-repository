@@ -29,4 +29,4 @@ dependencies {
 |1.5.2.411|[Download Link][msads-1-5]|
 
 
-[msads-1-5]: https://github.com/mobisummer/ms-ads-maven-repository/raw/master/com/mbs/rich/sdk/ads/msads/1.5.2.411/msads-1.5.2.411.jar
+[msads-1-5]: https://github.com/mobisummer/ms-ads-maven-repository/raw/master/com/mbs/rich/sdk/ads/msads/1.5.2.411/msads-1.5.2.411.aar
