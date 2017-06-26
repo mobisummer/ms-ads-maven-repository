@@ -18,7 +18,7 @@ Add dependencies for the android application project
 
 ```gradle
 dependencies {
-   compile 'com.mbs.sdk.rich.ads:msads:1.0.2.20'
+   compile 'com.mbs.sdk.rich.ads:msads:1.0.2.21'
 }
 ```
 
@@ -26,7 +26,7 @@ dependencies {
 
 |Version|Direct Download Link|
 |:---:|:---:|
-|1.0.2.20|[Download Link][msads-1-0]|
+|1.0.2.21|[Download Link][msads-1-0-2]|
 
 
-[msads-1-0]: https://raw.githubusercontent.com/mobisummer/ms-ads-maven-repository/master/com/mbs/sdk/rich/ads/msads/1.0.2.20/msads-1.0.2.20.aar
+[msads-1-0-2]: https://raw.githubusercontent.com/mobisummer/ms-ads-maven-repository/master/com/mbs/sdk/rich/ads/msads/1.0.2.21/msads-1.0.2.21.aar
