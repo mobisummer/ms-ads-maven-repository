@@ -13,20 +13,31 @@ repositories {
   }
 }
 ```
+## Rich AD SDK
 
 Add dependencies for the android application project
 
 ```gradle
 dependencies {
-   compile 'com.mbs.sdk.rich.ads:msads:1.1.0.26'
+   compile 'com.mbs.sdk.ads:rich-ads:1.2.1.29'
 }
 ```
+## OS AD SDK
 
+Add dependencies for the android application project
+
+```gradle
+dependencies {
+   compile 'com.mbs.sdk.ads:operation-ads:1.0.3.52'
+}
+```
 ## Direct Download (Not recommended)
 
 |Version|Direct Download Link|
 |:---:|:---:|
-|1.1.0.26|[Download Link][msads-1-1-0]|
+|1.0.3.52|[Download Link][operation-ads-1.0.3.52]|
+|1.2.1.29|[Download Link][rich-ads-1.2.1.29]|
 
+[rich-ads-1.2.1.29] https://github.com/mobisummer/ms-ads-maven-repository/blob/master/com/mbs/sdk/ads/rich-ads/1.2.1.29/rich-ads-1.2.1.29.aar
+[operation-ads-1.0.3.52] https://github.com/mobisummer/ms-ads-maven-repository/blob/master/com/mbs/sdk/ads/operation-ads/1.0.3.52/operation-ads-1.0.3.52.aar
 
-[msads-1-1-0]: https://raw.githubusercontent.com/mobisummer/ms-ads-maven-repository/master/com/mbs/sdk/rich/ads/msads/1.1.0.26/msads-1.1.0.26.aar
